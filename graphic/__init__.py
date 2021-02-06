@@ -1,1 +1,1 @@
-__init__=['rectarea','rectperimeter','cirarea','cirperimeter']
+__all__=['rectarea','rectperimeter','cirarea','cirperimeter']
